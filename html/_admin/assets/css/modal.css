@@ -1,0 +1,6 @@
+.modal {background:rgba(0,0,0,0.4);}
+.modal .modal-dialog {width:400px; height:auto; left:50%; margin-left:-200px; top:50%; margin-top:-125px; border:2px solid #3c64b3; border-radius:5px; background:#fff; position:absolute; text-align:center;}
+.modal .modal-dialog .modal-content {margin-top:55px;}
+.modal .modal-dialog .modal-content .modal-header {font-size:20px; margin-bottom:15px;}
+.modal .modal-dialog .modal-content .modal-body {font-size:16px; margin-bottom:20px;}
+.modal .modal-dialog .modal-content .modal-footer {margin-bottom:20px;;}
